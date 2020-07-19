@@ -1,2 +1,3 @@
-# Jogo-da-Velha
-Aplicação feita para estudo de Jquery
+# Hash
+Application made for Jquery study
+
